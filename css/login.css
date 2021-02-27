@@ -26,5 +26,6 @@ input {
 
 img {
     max-height: 500px;
-    max-width: 800px;
+    max-width: 200px;
+    margin: auto;
 }
